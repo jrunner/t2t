@@ -1,0 +1,9 @@
+div.dataTables_info {
+    padding-top: 28px;
+}
+
+#datagrid_length label {
+    margin-top: 10px;
+    padding-left: 10px;
+    font-weight: 100
+}

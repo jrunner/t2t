@@ -1,0 +1,76 @@
+td {
+	font-size: 12px;
+	line-height: 150%;
+	color: #000000;
+}
+
+body {
+	FONT-SIZE: 12px;;
+	COLOR: #000000;
+	FONT-FAMILY: "ËÎÌו";
+	background-color: #D6E0EF
+}
+
+a {
+	color: #0044DD;
+	text-decoration: none;
+}
+
+textarea {
+	color: #000000;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-size: 9pt;
+	font-family: Tahoma, Verdana
+}
+
+input {
+	color: #000000;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-size: 9pt;
+	font-family: Tahoma, Verdana
+}
+
+select {
+	color: #000000;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-size: 9pt;
+	font-family: Tahoma, Verdana
+}
+
+.header {
+	font: 12px Tahoma, Verdana;
+	color: #FFFFFF;
+	font-weight: bold;
+	background-color: #698CC3
+}
+
+.tableborder {
+	background: #D6E0EF;
+	border: 1px solid #698CC3
+}
+
+.mouseOverStyle{
+	background-image:url(../image/bgbtn1.jpg);
+	color:#00FF33;
+	border:0px;
+	margin:0px;
+	padding:0px;
+	width:82px;
+	height:23px;
+	font-size:12px
+	}
+.mouseOutStyle{
+	background-image:url(../image/backbutton.gif);
+	color:#000000;
+	border:0px;
+	margin:0px;
+	width:82px;
+	height:23px;
+	font-size:12px
+	}
